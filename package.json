@@ -1,0 +1,19 @@
+{
+  "name": "angular-syncstore",
+  "version": "1.0.0",
+  "description": "Auto-syncing data store for AngularJS",
+  "main": "syncstore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ablems/angular-syncstore.git"
+  },
+  "author": "Frederik Hannibal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ablems/angular-syncstore/issues"
+  },
+  "homepage": "https://github.com/ablems/angular-syncstore#readme"
+}
